@@ -22,6 +22,8 @@ class MainActivity : AppCompatActivity() {
         R.drawable.ic_challenge
     )
 
+    //git hub commit용
+
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         //
