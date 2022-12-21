@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidStudio/MyAccountBook2/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.139" />
+        <entry key="..\:/AndroidStudio/MyAccountBook2/app/src/main/res/drawable/background_text.xml" value="0.149" />
+        <entry key="..\:/AndroidStudio/MyAccountBook2/app/src/main/res/drawable/backgroundimg.xml" value="0.149" />
+        <entry key="..\:/AndroidStudio/MyAccountBook2/app/src/main/res/drawable/cardsent.xml" value="0.149" />
+        <entry key="..\:/AndroidStudio/MyAccountBook2/app/src/main/res/drawable/ic_________.xml" value="0.149" />
+        <entry key="..\:/AndroidStudio/MyAccountBook2/app/src/main/res/drawable/ic_baseline_access_alarm_24.xml" value="0.149" />
+        <entry key="..\:/AndroidStudio/MyAccountBook2/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1345" />
+        <entry key="..\:/AndroidStudio/MyAccountBook2/app/src/main/res/drawable/ic_rectangle_3.xml" value="0.149" />
+        <entry key="..\:/AndroidStudio/MyAccountBook2/app/src/main/res/font/gmarketsansbold.xml" value="0.2568947906026558" />
+        <entry key="..\:/AndroidStudio/MyAccountBook2/app/src/main/res/font/gsans_light.xml" value="0.25587334014300306" />
+        <entry key="..\:/AndroidStudio/MyAccountBook2/app/src/main/res/font/gsans_medium.xml" value="0.25587334014300306" />
+        <entry key="..\:/AndroidStudio/MyAccountBook2/app/src/main/res/layout/activity_main.xml" value="0.2234375" />
+        <entry key="..\:/AndroidStudio/MyAccountBook2/app/src/main/res/layout/activity_pie2.xml" value="0.25" />
+        <entry key="..\:/AndroidStudio/MyAccountBook2/app/src/main/res/layout/activity_second.xml" value="0.2234375" />
+        <entry key="..\:/AndroidStudio/MyAccountBook2/app/src/main/res/layout/fragment_cost.xml" value="0.2234375" />
+        <entry key="..\:/AndroidStudio/MyAccountBook2/app/src/main/res/layout/fragment_income.xml" value="0.20625" />
+        <entry key="..\:/AndroidStudio/MyAccountBook2/app/src/main/res/layout/pierow.xml" value="0.1802536231884058" />
+        <entry key="..\:/AndroidStudio/MyAccountBook2/app/src/main/res/layout/row.xml" value="0.15670289855072464" />
+        <entry key="..\:/AndroidStudio/MyAccountBook2_final/app/src/main/res/drawable/ic_baseline_attach_money_24.xml" value="0.129" />
+        <entry key="..\:/AndroidStudio/MyAccountBook2_final/app/src/main/res/drawable/ic_baseline_calendar_month_24.xml" value="0.129" />
+        <entry key="..\:/AndroidStudio/MyAccountBook2_final/app/src/main/res/drawable/ic_baseline_done_outline_24.xml" value="0.129" />
+        <entry key="..\:/AndroidStudio/MyAccountBook2_final/app/src/main/res/drawable/ic_baseline_fiber_manual_record_24.xml" value="0.129" />
+        <entry key="..\:/AndroidStudio/MyAccountBook2_final/app/src/main/res/layout/activity_main.xml" value="0.15353260869565216" />
+        <entry key="..\:/AndroidStudio/MyAccountBook2_final/app/src/main/res/layout/activity_second.xml" value="0.1" />
+        <entry key="..\:/AndroidStudio/MyAccountBook2_final/app/src/main/res/layout/fragment_budget.xml" value="0.15353260869565216" />
+        <entry key="..\:/AndroidStudio/MyAccountBook2_final/app/src/main/res/layout/fragment_challenge.xml" value="0.15353260869565216" />
+        <entry key="..\:/AndroidStudio/MyAccountBook2_final/app/src/main/res/layout/fragment_cost.xml" value="0.1" />
+        <entry key="..\:/AndroidStudio/MyAccountBook2_final/app/src/main/res/layout/fragment_income.xml" value="0.2234375" />
+        <entry key="..\:/AndroidStudio/MyAccountBook2_final/app/src/main/res/layout/fragment_record.xml" value="0.13722826086956522" />
+        <entry key="..\:/AndroidStudio/MyAccountBook2_final/app/src/main/res/layout/ic_baseline_attach_money_24.xml" value="0.15353260869565216" />
+        <entry key="..\:/AndroidStudio/MyAccountBook2_final/app/src/main/res/layout/ic_baseline_calendar_month_24.xml" value="0.15353260869565216" />
+        <entry key="..\:/AndroidStudio/MyAccountBook2_final/app/src/main/res/layout/pierow.xml" value="0.4" />
+        <entry key="..\:/AndroidStudio/MyAccountBook2_final/app/src/main/res/layout/row.xml" value="0.2234375" />
+        <entry key="..\:/AndroidStudio/MyAccountBook2_final_ryu/app/src/main/res/drawable-v24/ic_category_culture_32dp.xml" value="0.1305" />
+        <entry key="..\:/AndroidStudio/MyAccountBook2_final_ryu/app/src/main/res/drawable-v24/ic_home.xml" value="0.115" />
+        <entry key="..\:/AndroidStudio/MyAccountBook2_final_ryu/app/src/main/res/drawable-v24/ic_launcher_background.xml" value="0.134" />
+        <entry key="..\:/AndroidStudio/MyAccountBook2_final_ryu/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.115" />
+        <entry key="..\:/AndroidStudio/MyAccountBook2_final_ryu/app/src/main/res/drawable-v24/ic_piggy_bank_svgrepo_com.xml" value="0.134" />
+        <entry key="..\:/AndroidStudio/MyAccountBook2_final_ryu/app/src/main/res/drawable/background_text.xml" value="0.115" />
+        <entry key="..\:/AndroidStudio/MyAccountBook2_final_ryu/app/src/main/res/drawable/backgroundimg.xml" value="0.134" />
+        <entry key="..\:/AndroidStudio/MyAccountBook2_final_ryu/app/src/main/res/drawable/button_round.xml" value="0.115" />
+        <entry key="..\:/AndroidStudio/MyAccountBook2_final_ryu/app/src/main/res/drawable/ic_account.xml" value="0.115" />
+        <entry key="..\:/AndroidStudio/MyAccountBook2_final_ryu/app/src/main/res/drawable/ic_baseline_attach_money_24.xml" value="0.115" />
+        <entry key="..\:/AndroidStudio/MyAccountBook2_final_ryu/app/src/main/res/drawable/ic_baseline_done_outline_24.xml" value="0.115" />
+        <entry key="..\:/AndroidStudio/MyAccountBook2_final_ryu/app/src/main/res/drawable/ic_crying.xml" value="0.115" />
+        <entry key="..\:/AndroidStudio/MyAccountBook2_final_ryu/app/src/main/res/drawable/ic_launcher_background.xml" value="0.134" />
+        <entry key="..\:/AndroidStudio/MyAccountBook2_final_ryu/app/src/main/res/drawable/ic_love.xml" value="0.115" />
+        <entry key="..\:/AndroidStudio/MyAccountBook2_final_ryu/app/src/main/res/drawable/ic_plusicon_21.xml" value="0.115" />
+        <entry key="..\:/AndroidStudio/MyAccountBook2_final_ryu/app/src/main/res/drawable/ic_rectangle_29.xml" value="0.163" />
+        <entry key="..\:/AndroidStudio/MyAccountBook2_final_ryu/app/src/main/res/drawable/ic_rectangle_29__1_.xml" value="0.115" />
+        <entry key="..\:/AndroidStudio/MyAccountBook2_final_ryu/app/src/main/res/layout/activity_budget_record.xml" value="0.16485507246376813" />
+        <entry key="..\:/AndroidStudio/MyAccountBook2_final_ryu/app/src/main/res/layout/activity_income.xml" value="0.15806159420289856" />
+        <entry key="..\:/AndroidStudio/MyAccountBook2_final_ryu/app/src/main/res/layout/activity_main.xml" value="0.15806159420289856" />
+        <entry key="..\:/AndroidStudio/MyAccountBook2_final_ryu/app/src/main/res/layout/activity_spend.xml" value="0.16485507246376813" />
+        <entry key="..\:/AndroidStudio/MyAccountBook2_final_ryu/app/src/main/res/layout/dialog_fail.xml" value="0.16799999999999998" />
+        <entry key="..\:/AndroidStudio/MyAccountBook2_final_ryu/app/src/main/res/layout/dialog_succes.xml" value="0.16799999999999998" />
+        <entry key="..\:/AndroidStudio/MyAccountBook2_final_ryu/app/src/main/res/layout/fragment_budget.xml" value="0.2234375" />
+        <entry key="..\:/AndroidStudio/MyAccountBook2_final_ryu/app/src/main/res/layout/fragment_budget2.xml" value="0.17980072463768115" />
+        <entry key="..\:/AndroidStudio/MyAccountBook2_final_ryu/app/src/main/res/layout/fragment_challenge.xml" value="0.11730072463768115" />
+        <entry key="..\:/AndroidStudio/MyAccountBook2_final_ryu/app/src/main/res/layout/fragment_cost.xml" value="0.17980072463768115" />
+        <entry key="..\:/AndroidStudio/MyAccountBook2_final_ryu/app/src/main/res/layout/fragment_income.xml" value="0.15806159420289856" />
+        <entry key="..\:/AndroidStudio/MyAccountBook2_final_ryu/app/src/main/res/layout/fragment_record.xml" value="0.17980072463768115" />
+        <entry key="..\:/AndroidStudio/MyAccountBook2_final_ryu/app/src/main/res/layout/listview.xml" value="0.17980072463768115" />
+        <entry key="..\:/AndroidStudio/MyAccountBook2_final_ryu/app/src/main/res/layout/pierow.xml" value="0.17980072463768115" />
+        <entry key="..\:/AndroidStudio/MyAccountBook2_final_ryu/app/src/main/res/layout/recyclerview_cal.xml" value="0.17980072463768115" />
+        <entry key="..\:/AndroidStudio/MyAccountBook2_final_ryu/app/src/main/res/layout/spend_category.xml" value="0.15806159420289856" />
+        <entry key="..\:/AndroidStudio/MyAccountBook2_final_ryu/app/src/main/res/mipmap-anydpi-v26/launcher_first.xml" value="0.115" />
+        <entry key="..\:/Users/SouN.DESKTOP-K1D03OJ/AndroidStudioProjects/MyAccountBook/app/src/main/res/layout/activity_main.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/SouN.DESKTOP-K1D03OJ/AndroidStudioProjects/MyAccountBook/app/src/main/res/layout/row.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/wlsdl/AndroidStudioProjects/MyAccountBook2_final/app/src/main/res/drawable-v24/ic_category_culture_32dp.xml" value="0.1" />
+        <entry key="..\:/Users/wlsdl/AndroidStudioProjects/MyAccountBook2_final/app/src/main/res/drawable-v24/ic_category_receipt_long_24.xml" value="0.1" />
+        <entry key="..\:/Users/wlsdl/AndroidStudioProjects/MyAccountBook2_final/app/src/main/res/drawable-v24/ic_close.xml" value="0.1" />
+        <entry key="..\:/Users/wlsdl/AndroidStudioProjects/MyAccountBook2_final/app/src/main/res/layout/activity_budget_record.xml" value="0.1" />
+        <entry key="..\:/Users/wlsdl/AndroidStudioProjects/MyAccountBook2_final/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/wlsdl/AndroidStudioProjects/MyAccountBook2_final/app/src/main/res/layout/activity_spend.xml" value="0.12158054711246201" />
+        <entry key="..\:/Users/wlsdl/AndroidStudioProjects/MyAccountBook2_final/app/src/main/res/layout/dialog_fail.xml" value="0.2" />
+        <entry key="..\:/Users/wlsdl/AndroidStudioProjects/MyAccountBook2_final/app/src/main/res/layout/dialog_succes.xml" value="0.264" />
+        <entry key="..\:/Users/wlsdl/AndroidStudioProjects/MyAccountBook2_final/app/src/main/res/layout/fragment_budget.xml" value="0.12158054711246201" />
+        <entry key="..\:/Users/wlsdl/AndroidStudioProjects/MyAccountBook2_final/app/src/main/res/layout/fragment_challenge.xml" value="0.25" />
+        <entry key="..\:/Users/wlsdl/AndroidStudioProjects/MyAccountBook2_final/app/src/main/res/layout/fragment_cost.xml" value="0.2318840579710145" />
+        <entry key="..\:/Users/wlsdl/AndroidStudioProjects/MyAccountBook2_final/app/src/main/res/layout/fragment_income.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/wlsdl/AndroidStudioProjects/MyAccountBook2_final/app/src/main/res/layout/fragment_record.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/wlsdl/AndroidStudioProjects/MyAccountBook2_final/app/src/main/res/layout/listview.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/wlsdl/AndroidStudioProjects/MyAccountBook2_final/app/src/main/res/layout/pierow.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/wlsdl/AndroidStudioProjects/MyAccountBook2_final/app/src/main/res/layout/recyclerview_callenge.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/wlsdl/AndroidStudioProjects/MyAccountBook2_final/app/src/main/res/layout/recyclerview_chall.xml" value="0.21829710144927536" />
+        <entry key="..\:/Users/wlsdl/AndroidStudioProjects/MyAccountBook2_final/app/src/main/res/layout/recyclerview_challenge.xml" value="0.24895833333333334" />
+        <entry key="..\:/Users/wlsdl/AndroidStudioProjects/MyAccountBook2_final/app/src/main/res/layout/row.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/wlsdl/AndroidStudioProjects/MyAccountBook2_final/app/src/main/res/layout/spend_category.xml" value="0.1068840579710145" />
+        <entry key="..\:/Users/wlsdl/AndroidStudioProjects/MyAccountBook2_final/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.193" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
